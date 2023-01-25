@@ -10,6 +10,7 @@ This work presents an implementation of the MVC (model-view-controller) software
 ![title](./images/img_2.png)
 
 > **NOTE**
+>
 > The application was primarily aimed to portuguese speakers, so the GUI and the code have a lot of portuguese words and phrases.
 
 ### How to run?
@@ -37,6 +38,7 @@ This work presents an implementation of the MVC (model-view-controller) software
     - This folder stores the application persisted data (serialized objects)
 
 > **NOTE**
+>
 > All the files are already compiled and ready to execution, moreover, is presented a previously created data.bin for tests. That is, you can test the application just by doing the "Execute" phase from the last section.
 
 ### How to use?
