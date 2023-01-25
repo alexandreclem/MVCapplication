@@ -12,9 +12,6 @@ This work presents an implementation of the MVC (model-view-controller) software
 > **NOTE**
 > The application was primarily aimed to portuguese speakers, so the GUI and the code have a lot of portuguese words and phrases.
 
-
-
-
 ### How to run?
 - Clone the Repository
     ```bash
@@ -41,3 +38,18 @@ This work presents an implementation of the MVC (model-view-controller) software
 
 > **NOTE**
 > All the files are already compiled and ready to execution, moreover, is presented a previously created data.bin for tests. That is, you can test the application just by doing the "Execute" phase from the last section.
+
+### How to use?
+The first view is the **Menu**, in which you can choose:
+
+- Catalog
+    - Creates categories and items (products or services) that intends to be used by the agency to fix the cars
+- Clients
+    - Add or remove clients from the system
+
+- Employees (Funcionarios)
+    - Add or remove employees from the system
+- Vehicles
+    - Register vehicles and add services that must be done on these vehicles
+- Service Orders (Ordens de Servico)
+    - Creates the service orders that can be used in the vehicles view
