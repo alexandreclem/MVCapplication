@@ -10,7 +10,7 @@ This work presents an implementation of the MVC (model-view-controller) software
 
 ### Application
 <p align="center" width="100%">
-    <img width="85%" src="https://raw.githubusercontent.com/alexandreclem/MVCapplication/master/images/img_2.png">    
+    <img width="90%" src="https://raw.githubusercontent.com/alexandreclem/MVCapplication/master/images/img_2.png">    
 </p>
 
 > **NOTE**
