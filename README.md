@@ -5,12 +5,12 @@ This work presents an implementation of the MVC (model-view-controller) software
 
 ### MVC Architecture
 <p align="center" width="100%">
-    <img width="55%" src="https://raw.githubusercontent.com/alexandreclem/MVCapplication/master/images/img.png">    
+    <img width="50%" src="https://raw.githubusercontent.com/alexandreclem/MVCapplication/master/images/img.png">    
 </p>
 
 ### Application
 <p align="center" width="100%">
-    <img width="100%" src="https://raw.githubusercontent.com/alexandreclem/MVCapplication/master/images/img_2.png">    
+    <img width="85%" src="https://raw.githubusercontent.com/alexandreclem/MVCapplication/master/images/img_2.png">    
 </p>
 
 > **NOTE**
