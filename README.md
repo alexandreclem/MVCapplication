@@ -4,6 +4,9 @@
 This work presents an implementation of the MVC (model-view-controller) software architecture, using a car repair agency as the application's domain.
 
 ### MVC Architecture
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/alexandreclem/MVCapplication/tree/master/images/img.png">
+</p>
 ![title](./images/img.png)
 
 ### Application
