@@ -18,7 +18,7 @@ This work presents an implementation of the MVC (model-view-controller) software
 ### How to run?
 - Clone the Repository
     ```bash
-    $ git clone https://github.com/alexandreclem/BTreeDataManagement.git
+    $ git clone https://github.com/alexandreclem/MVCapplication.git
     ```
 - Compile - creates the binaries (.class)
     
